@@ -11,22 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* Ph.D. in Operations Research, National University of Singapore, 2020-2024(expected)
+* MSc. in Operations Research, Columbia University, 2017-2019
+* BSc. in Financial Engineering, Nanjing University, 2013-2017
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Research Assistant: Nov. 2019 - Jun. 2020 
+  * National University of Singapore
+  * Duties included: Did research on choice model in retailing.
+  * Supervisor: Professor Xiaobo Li
 
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Quant Research Intern in Stock Team: Apr. 2019 - Aug.2019
+  * Shanghai Fushan Investment Company
+  * Duties included: Did multi-factor strategies.
   
+<!--
 Skills
 ======
 * Skill 1
@@ -57,3 +59,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 49 different slack teams
+
+-->
