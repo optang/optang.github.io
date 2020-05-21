@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /Research/   
+    url: /research/   
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
   - title: "Miscellaneous"
-    url: /Miscellaneous/   
+    url: /miscellaneous/   
