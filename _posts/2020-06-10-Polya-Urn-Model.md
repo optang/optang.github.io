@@ -20,11 +20,10 @@ The urn contains balls of two or more colors. Depending on the problem being stu
 
 Polya urn model
 ======
-![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/1.JPG)
-![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/2.JPG)
-![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/3.JPG)
-![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/4.JPG)
+![image](../_image/1.JPG)
+![image](../_image/2.JPG)
+![image](../_image/3.JPG)
+![image](../_image/4.JPG)
 
 
-Aren't headings cool?
 ------
