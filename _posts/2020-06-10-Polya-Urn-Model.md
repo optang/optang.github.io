@@ -5,10 +5,7 @@ permalink: /posts/2020/06/Polya-urn-model/
 tags:
   - group meeting
   - statistics
-  - category2
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
 Urn model
 ======
@@ -23,7 +20,10 @@ The urn contains balls of two or more colors. Depending on the problem being stu
 
 Polya urn model
 ======
-![Alt text](图片链接 "optional title")
+![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/1.JPG)
+![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/2.JPG)
+![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/3.JPG)
+![image](https://github.com/optang/optang.github.io/blob/master/_posts/_image/4.JPG)
 
 
 Aren't headings cool?
